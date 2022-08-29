@@ -1,0 +1,13 @@
+.comment {
+  border: 2px solid salmon;
+  background-color: yellowgreen;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.user-details {
+  background-color: black;
+  color: white;
+  width: 600px;
+}
